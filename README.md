@@ -16,4 +16,7 @@ Biblioteca da yahoo que foi feita sobre a biblioteca pandas, onde irá encontrar
 - adicione esse código na parte de carregamento de dados.
 - Receba um gráfico de 1 semana, 1 mês, 6 meses, 1 ano ou tudo com as previsões feitas.
 
-## Exemplos de Previsões
+## Exemplos de Previsões realisadas
+
+- Bitcoin:
+  ![btc](https://github.com/yanzin00/Machine-Learning/blob/main/Resultados/BTC-USD.png)
