@@ -1,2 +1,2 @@
 # Machine-Learning
-Projeto inovador utilizando Machine Learning para prever valores de ações e investimentos, aproveitando dados históricos para análises mais precisas .
+Este projeto representa uma abordagem inovadora que utiliza técnicas avançadas de Machine Learning para prever com precisão os valores de ações, investimentos e na Bolsa de Valores. Utilizando dados históricos significativos, a aplicação constrói modelos preditivos robustos que possibilitam análises preditivas mais precisas e informadas. Ao processar e aprender com informações anteriores, o projeto oferece insights valiosos, tornando-se uma ferramenta fundamental para apoiar decisões de investimento e estratégias financeiras.
