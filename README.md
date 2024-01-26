@@ -19,4 +19,13 @@ Biblioteca da yahoo que foi feita sobre a biblioteca pandas, onde irá encontrar
 ## Exemplos de Previsões realisadas
 
 - Bitcoin:
+- 
   ![btc](https://github.com/yanzin00/Machine-Learning/blob/main/Resultados/BTC-USD.png)
+
+- Ouro:
+- 
+  ![Ouro](https://github.com/yanzin00/Machine-Learning/blob/main/Resultados/GC%3DF.png)
+
+- Petrobras:
+- 
+  ![petro](https://github.com/yanzin00/Machine-Learning/blob/main/Resultados/PETR4.SA.png)
